@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "cc_finder_TM",
+    "owner": "Andy"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "cc_finder_diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
